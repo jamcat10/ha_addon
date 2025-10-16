@@ -1,6 +1,6 @@
 {
   "name": "Korea Radio for HA",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "slug": "radioha",
   "description": "Korea Intenet Radio for HA",
   "arch": ["armhf", "armv7", "aarch64", "amd64"],
